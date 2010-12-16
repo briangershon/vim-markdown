@@ -1,0 +1,4 @@
+*markdown* Markdown syntax highlighting with snippets support
+
+See http://plasticboy.com/markdown-vim-mode/ for information on the plugin,
+and http://github.com/hallison/vim-markdown for source code.
